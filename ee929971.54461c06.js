@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[58],{115:function(o){o.exports=JSON.parse('{"allTagsPath":"/tech-interview-handbook/blog/tags","slug":"problem-solving","name":"problem-solving","count":1,"permalink":"/tech-interview-handbook/blog/tags/problem-solving"}')}}]);

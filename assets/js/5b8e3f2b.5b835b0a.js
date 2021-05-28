@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[295],{1754:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tech-interview-handbook/blog/tags","slug":"problem-solving","name":"problem-solving","count":1,"permalink":"/tech-interview-handbook/blog/tags/problem-solving"}')}}]);

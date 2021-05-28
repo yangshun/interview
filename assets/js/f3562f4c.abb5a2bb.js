@@ -1,0 +1,1 @@
+(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[1525],{7484:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/tech-interview-handbook/blog/tags","slug":"trees","name":"trees","count":1,"permalink":"/tech-interview-handbook/blog/tags/trees"}')}}]);

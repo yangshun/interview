@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[53],{110:function(e){e.exports=JSON.parse('{"allTagsPath":"/tech-interview-handbook/blog/tags","slug":"trees","name":"trees","count":1,"permalink":"/tech-interview-handbook/blog/tags/trees"}')}}]);
